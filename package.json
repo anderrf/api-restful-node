@@ -38,5 +38,5 @@
     "sqlite3": "^5.1.4",
     "zod": "^3.21.4"
   },
-  "type": "module"
+  "type": "commonjs"
 }
